@@ -1,0 +1,211 @@
+patient_id,local_date,number_of_steps,name,age,condition,true_trend
+P005,2023-01-01,5000,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-02,5050,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-03,4950,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-04,5000,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-05,5050,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-06,4950,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-07,5000,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-01-08,5050,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-09,5150,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-10,5250,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-11,5350,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-12,5450,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-13,5550,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-14,5650,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-15,5700,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-16,5800,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-17,5900,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-18,6000,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-19,6100,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-20,6200,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-21,6300,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-22,6350,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-23,6450,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-24,6550,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-25,6650,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-26,6750,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-27,6850,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-28,6950,Eric Brown,39,Treatment Resistant Depression,Upward
+P005,2023-01-29,6900,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-01-30,6800,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-01-31,6700,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-02-01,6600,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-02-02,6500,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-02-03,6400,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-02-04,6300,Eric Brown,39,Treatment Resistant Depression,Downward
+P005,2023-02-05,6350,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-02-06,6300,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-02-07,6350,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-02-08,6300,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-02-09,6350,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-02-10,6300,Eric Brown,39,Treatment Resistant Depression,No Trend
+P005,2023-02-11,6350,Eric Brown,39,Treatment Resistant Depression,No Trend
+P006,2023-01-01,4200,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-02,4250,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-03,4150,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-04,4200,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-05,4250,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-06,4150,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-07,4200,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-08,4300,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-09,4400,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-10,4500,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-11,4600,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-12,4700,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-13,4800,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-14,4900,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-15,5000,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-16,5100,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-17,5200,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-18,5300,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-19,5400,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-20,5500,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-21,5600,Fiona Garcia,31,Treatment Resistant Depression,Upward
+P006,2023-01-22,5550,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-23,5600,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-24,5550,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-25,5600,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-26,5550,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-27,5600,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-28,5550,Fiona Garcia,31,Treatment Resistant Depression,No Trend
+P006,2023-01-29,5500,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-01-30,5400,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-01-31,5300,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-01,5200,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-02,5100,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-03,5000,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-04,4900,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-05,4800,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-06,4700,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-07,4600,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-08,4500,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-09,4400,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-10,4300,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P006,2023-02-11,4200,Fiona Garcia,31,Treatment Resistant Depression,Downward
+P007,2023-01-01,6200,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-02,6100,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-03,6000,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-04,5900,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-05,5800,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-06,5700,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-07,5600,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-08,5550,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-09,5450,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-10,5350,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-11,5250,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-12,5150,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-13,5050,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-14,4950,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-15,4900,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-16,4800,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-17,4700,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-18,4600,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-19,4500,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-20,4400,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-21,4300,George Kim,50,Treatment Resistant Depression,Downward
+P007,2023-01-22,4350,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-23,4300,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-24,4350,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-25,4300,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-26,4350,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-27,4300,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-28,4350,George Kim,50,Treatment Resistant Depression,No Trend
+P007,2023-01-29,4400,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-01-30,4500,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-01-31,4600,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-01,4700,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-02,4800,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-03,4900,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-04,5000,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-05,5050,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-06,5150,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-07,5250,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-08,5350,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-09,5450,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-10,5550,George Kim,50,Treatment Resistant Depression,Upward
+P007,2023-02-11,5650,George Kim,50,Treatment Resistant Depression,Upward
+P008,2023-01-01,5100,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-02,5000,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-03,5050,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-04,5000,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-05,5050,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-06,5000,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-07,5050,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-08,5100,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-09,5200,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-10,5300,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-11,5400,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-12,5500,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-13,5600,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-14,5700,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-15,5650,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-16,5550,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-17,5450,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-18,5350,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-19,5250,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-20,5150,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-21,5050,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-01-22,5100,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-23,5050,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-24,5100,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-25,5050,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-26,5100,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-27,5050,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-28,5100,Hannah Smith,33,Treatment Resistant Depression,No Trend
+P008,2023-01-29,5150,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-30,5250,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-01-31,5350,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-02-01,5450,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-02-02,5550,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-02-03,5650,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-02-04,5750,Hannah Smith,33,Treatment Resistant Depression,Upward
+P008,2023-02-05,5700,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-02-06,5600,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-02-07,5500,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-02-08,5400,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-02-09,5300,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-02-10,5200,Hannah Smith,33,Treatment Resistant Depression,Downward
+P008,2023-02-11,5100,Hannah Smith,33,Treatment Resistant Depression,Downward
+P009,2023-01-01,4800,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-02,4900,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-03,5000,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-04,5100,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-05,5200,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-06,5300,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-07,5400,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-08,5350,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-09,5400,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-10,5350,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-11,5400,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-12,5350,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-13,5400,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-14,5350,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-01-15,5300,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-16,5200,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-17,5100,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-18,5000,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-19,4900,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-20,4800,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-21,4700,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-22,4750,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-23,4850,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-24,4950,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-25,5050,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-26,5150,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-27,5250,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-28,5350,Ian Taylor,47,Treatment Resistant Depression,Upward
+P009,2023-01-29,5300,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-30,5200,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-01-31,5100,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-02-01,5000,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-02-02,4900,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-02-03,4800,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-02-04,4700,Ian Taylor,47,Treatment Resistant Depression,Downward
+P009,2023-02-05,4750,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-02-06,4700,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-02-07,4750,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-02-08,4700,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-02-09,4750,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-02-10,4700,Ian Taylor,47,Treatment Resistant Depression,No Trend
+P009,2023-02-11,4750,Ian Taylor,47,Treatment Resistant Depression,No Trend
