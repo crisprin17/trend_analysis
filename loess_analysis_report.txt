@@ -1,0 +1,54 @@
+
+LOESS Parameter Analysis Report
+Generated on: 2024-11-21 10:30:11
+================================================================================
+
+1. Performance Analysis by Smoothing Parameter (frac)
+--------------------------------------------------------------------------------
+        mean     std     min     max
+frac                                
+0.1   0.0095  0.0005  0.0090  0.0101
+0.2   0.0090  0.0003  0.0087  0.0093
+0.3   0.0091  0.0003  0.0089  0.0095
+0.4   0.0093  0.0004  0.0087  0.0098
+0.5   0.0091  0.0003  0.0088  0.0095
+
+2. Trend Detection Accuracy
+--------------------------------------------------------------------------------
+Pattern-wise results for different frac values:
+         confidence                             direction                                         strength                        
+frac            0.1    0.2    0.3    0.4    0.5       0.1       0.2       0.3       0.4       0.5      0.1   0.2   0.3   0.4   0.5
+pattern                                                                                                                           
+cyclic        0.400  0.400  0.400  0.400  0.400  Downward  Downward  Downward  Downward  Downward     Weak  Weak  Weak  Weak  Weak
+downward      0.425  0.425  0.425  0.425  0.425  Downward  Downward  Downward  Downward  Downward     Weak  Weak  Weak  Weak  Weak
+stable        0.877  0.877  0.877  0.877  0.877  No Trend  No Trend  No Trend  No Trend  No Trend     None  None  None  None  None
+upward        0.418  0.418  0.418  0.418  0.418    Upward    Upward    Upward    Upward    Upward     Weak  Weak  Weak  Weak  Weak
+
+3. Trend Strength Analysis
+--------------------------------------------------------------------------------
+Average trend strength by pattern and frac value:
+frac        0.1    0.2    0.3    0.4    0.5
+pattern                                    
+cyclic    0.989  0.989  0.989  0.989  0.989
+downward  0.979  0.979  0.979  0.979  0.979
+stable    0.000  0.000  0.000  0.000  0.000
+upward    0.983  0.983  0.983  0.983  0.983
+
+4. Key Findings
+--------------------------------------------------------------------------------
+a) Optimal frac value for each pattern:
+ pattern  frac  confidence strength
+  cyclic   0.1    0.400000     Weak
+downward   0.1    0.424885     Weak
+  stable   0.1    0.877358     None
+  upward   0.1    0.417793     Weak
+
+b) Overall best performing frac value:
+0.1 (Average confidence: 0.530)
+
+5. Recommendations
+--------------------------------------------------------------------------------
+Based on the analysis above, here are the recommended settings:
+- For stable patterns: frac = 0.1
+- For trending patterns: frac = 0.1
+- For general use: frac = 0.1
